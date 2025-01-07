@@ -48,7 +48,7 @@ body{
   display: inline-block;
   background-color: var(--text-accent);
   position: absolute;
-  transform: translate(-40%, -33%);
+  transform: translate(-40%, -40%);
   padding: 1rem; }
 
 
